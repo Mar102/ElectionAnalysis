@@ -18,7 +18,7 @@ Softwate: Python 3.7.6 Visual Studio Code
 ## Summary
 
 - The analysis shows that:
-    * Candidate 1There were "X" votes cast in the election. 
+    * There were "X" votes cast in the election. 
 
 - The candidates were: 
     * Candidate 1
