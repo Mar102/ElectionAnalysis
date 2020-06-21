@@ -11,21 +11,26 @@ A Colorado Board of Elections employee asked for the following tasks to complete
 5. The winner of the election based on popular vote 
 
 ## Resources 
--Data Source: election_results.csv
--Softwate: Python 3.7.6 Visual Studio Code 
+Data Source: election_results.csv
+Softwate: Python 3.7.6 Visual Studio Code 
 
-## Summary 
+## Summary
+
 The analysis shows that:
--There were 369,711 votes cast in the election. 
--The candidates were: 
+There were "X" votes cast in the election. 
+
+- The candidates were: 
     * Candidate 1
     * Candidate 2
     * Candidate 3
- -The candidate results were:
+    
+ - The candidate results were:
+ 
     * Candidate 1 received "x%" of the vote and "y" number of votes.
     * Candidate 2 received "x%" of the vote and "y" number of votes.
     * Candidate 3 received "x%" of the vote and "y" number of votes.
- -The winner of the election was:
+    
+ - The winner of the election was:
     * Candidate (1, 2, or 3), who received "x%" of the vote and "y" number of votes.
      
 ## Challenge Overview
