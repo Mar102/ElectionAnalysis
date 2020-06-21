@@ -12,6 +12,7 @@ A Colorado Board of Elections employee asked for the following tasks to complete
 
 ## Resources 
 Data Source: election_results.csv
+
 Softwate: Python 3.7.6 Visual Studio Code 
 
 ## Summary
